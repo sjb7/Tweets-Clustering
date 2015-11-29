@@ -1,0 +1,15 @@
+Batch Member : ,2013A7PS007G Shubham Jain
+,2013A7PS020G Arnab Das
+,2013A7PS070G Arnab Bhattacharya
+,2013A7PS092G Neeraj Ingle
+Group Number,14
+,
+Project Details,
+,
+,
+Data Set,A text file consisting of tweets seperated by a new line. The data set is constructed using tweepy module of pyhton and Twitter4j library of Java. 
+,A sample data set is there in the zip file with name tweetfile.txt
+Attributes, It consists of a single tweet on single line which is going to convert into tfidf vector. For more details see the ReadMe.pdf file.
+Instances,Total number of tweets
+Classes,"TwitterData, Point, KmeansCluster"
+Algorithm,K Means Clustering algorithm. For details see ReadMe.pdf.
